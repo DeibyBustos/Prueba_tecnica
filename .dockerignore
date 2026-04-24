@@ -1,0 +1,37 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+logs/
+
+# Terraform
+terraform/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Tests
+src/test/
+
+# Docs
+README.md
